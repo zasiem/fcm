@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "778444015907",
-    "project_id": "fcm-research-6687e",
-    "storage_bucket": "fcm-research-6687e.appspot.com"
+    "project_number": "910807472500",
+    "project_id": "notification-research-77a3a",
+    "storage_bucket": "notification-research-77a3a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:778444015907:android:f4ca67de256de889692496",
+        "mobilesdk_app_id": "1:910807472500:android:4b713af8072c046089b421",
         "android_client_info": {
           "package_name": "com.example.fcm"
         }
       },
       "oauth_client": [
         {
-          "client_id": "778444015907-mma1907pu1bovpming2huve5jludgfk6.apps.googleusercontent.com",
+          "client_id": "910807472500-ppqrb4lvihuqujo6jrj661svttu9jc8i.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCeypxi9MYrUismrV8VI1OlWdSnZf0zRKs"
+          "current_key": "AIzaSyCiAuY98ll-KpzYmWeM2MobCQOgnWgZUyI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "778444015907-mma1907pu1bovpming2huve5jludgfk6.apps.googleusercontent.com",
+              "client_id": "910807472500-ppqrb4lvihuqujo6jrj661svttu9jc8i.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
