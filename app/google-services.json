@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "910807472500",
-    "project_id": "notification-research-77a3a",
-    "storage_bucket": "notification-research-77a3a.appspot.com"
+    "project_number": "560613679998",
+    "project_id": "notif-838d7",
+    "storage_bucket": "notif-838d7.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:910807472500:android:4b713af8072c046089b421",
+        "mobilesdk_app_id": "1:560613679998:android:e8afe1d07acb3cd829892f",
         "android_client_info": {
           "package_name": "com.example.fcm"
         }
       },
       "oauth_client": [
         {
-          "client_id": "910807472500-ppqrb4lvihuqujo6jrj661svttu9jc8i.apps.googleusercontent.com",
+          "client_id": "560613679998-h1nm1riaqqto3q3cqud2edsb3crhfajp.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCiAuY98ll-KpzYmWeM2MobCQOgnWgZUyI"
+          "current_key": "AIzaSyAOdULk-pwKVbJK-AuWrOjY4TcZkp-nRR4"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "910807472500-ppqrb4lvihuqujo6jrj661svttu9jc8i.apps.googleusercontent.com",
+              "client_id": "560613679998-h1nm1riaqqto3q3cqud2edsb3crhfajp.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
