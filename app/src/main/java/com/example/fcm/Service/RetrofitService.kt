@@ -2,7 +2,10 @@ package com.example.fcm.Service
 
 import com.example.fcm.Model.NotificationBody
 import okhttp3.ResponseBody
-import retrofit2.http.*
+import retrofit2.Call
+import retrofit2.http.Body
+import retrofit2.http.Headers
+import retrofit2.http.POST
 
 interface RetrofitService {
 
@@ -13,6 +16,6 @@ interface RetrofitService {
     @POST("fcm/send")
     fun sendNotification(
         @Body data: NotificationBody
-    ) : ResponseBody
+    ) : Call<ResponseBody>
 
 }
