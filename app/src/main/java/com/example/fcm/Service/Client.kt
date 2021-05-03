@@ -8,7 +8,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 import java.util.concurrent.TimeUnit
 
 object RetrofitFactory {
-    const val BASE_URL = "https://fcm.googleapis.com"
+    const val BASE_URL = "https://fcm.googleapis.com/"
 
     fun makeRetrofitService(url : String): RetrofitService {
         return Retrofit.Builder()

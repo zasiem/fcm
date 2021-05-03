@@ -23,7 +23,8 @@ class FirebaseMessagingService: FirebaseMessagingService() {
     private fun showNotification(title: String, message: String){
         val builder = NotificationCompat.Builder(this, "test-notif")
             .setContentTitle(title)
-            .setContentText(message);
+            .setContentText(message)
+            .setSmallIcon(R.drawable.ic_launcher_background);
 
         val manager = NotificationManagerCompat.from(this)
 

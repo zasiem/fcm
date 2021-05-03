@@ -10,12 +10,12 @@ import retrofit2.http.POST
 interface RetrofitService {
 
     @Headers(
-        "Content-type:application/json",
+        "Content-Type:application/json",
         "Authorization: Bearer AAAAgoct434:APA91bEse4ETfXROjIHvtI76-xtILLmwTCOFYMNSeg1r6kYy6w5hTEA-jYEgZ5MuAyWDFHtz7NUB3rYaecT0aUAfYVTcfhzrphFaUjJVJoLDI4z4GpL6N0DPO-5hsGuMyq3fy-IIBrJF"
-        )
+    )
     @POST("fcm/send")
     fun sendNotification(
         @Body data: NotificationBody
-    ) : Call<ResponseBody>
+    ): Call<ResponseBody>
 
 }
